@@ -1,6 +1,6 @@
 # EX 2 : Bresenham‘s Line Drawing Algorithm
-Register No: 212224230009
-Name:AHAMADH SULAIMAN M
+Register No: 212224230067
+Name: DHIVYAN S
 **AIM :**
 
  To  implement the Bresenham’s  algorithm for line using a c coding.
